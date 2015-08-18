@@ -1,0 +1,57 @@
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\bin\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\bin\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\bin\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\MyGame.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\bin\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\bin\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\MyGame.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT2\MyGame\MyGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\bin\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\MyGame.GFX.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\MyGame.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 3\MyGame\MyGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\bin\Debug\MyGame.xml
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\MyGame.GFX.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\MyGame.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\roberts.JORE_CORP.DMN\Desktop\TUT PT 4\MyGame\MyGame\obj\x86\Debug\GenerateResource.write.1.tlog

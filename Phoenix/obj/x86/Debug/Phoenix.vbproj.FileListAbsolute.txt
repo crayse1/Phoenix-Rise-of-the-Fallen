@@ -1,0 +1,65 @@
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Phoenix\Phoenix\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Phoenix\Phoenix\bin\Debug\Phoenix.exe
+F:\Phoenix\Phoenix\bin\Debug\Phoenix.pdb
+F:\Phoenix\Phoenix\bin\Debug\Phoenix.xml
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmAbout.resources
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmmain.resources
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmGraphics.resources
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmMainMenu.resources
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmSplash.resources
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.Resources.resources
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.exe
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.xml
+F:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.pdb
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.exe
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.xml
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.pdb
+D:\Phoenix\Phoenix\bin\Debug\Phoenix.exe
+D:\Phoenix\Phoenix\bin\Debug\Phoenix.pdb
+D:\Phoenix\Phoenix\bin\Debug\Phoenix.xml
+D:\Phoenix\Phoenix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmAbout.resources
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmmain.resources
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmGraphics.resources
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmMainMenu.resources
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmSplash.resources
+D:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.Resources.resources
+D:\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.exe
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.xml
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.pdb
+E:\Phoenix\Phoenix\bin\Debug\Phoenix.exe
+E:\Phoenix\Phoenix\bin\Debug\Phoenix.pdb
+E:\Phoenix\Phoenix\bin\Debug\Phoenix.xml
+E:\Phoenix\Phoenix\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmAbout.resources
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmmain.resources
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmMainMenu.resources
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmSplash.resources
+E:\Phoenix\Phoenix\obj\x86\Debug\Phoenix.Resources.resources
+E:\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.exe
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.xml
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.pdb
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmAbout.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmmain.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmMainMenu.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmSplash.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.Resources.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmInventory.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmStat.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmGameOver.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmBattle.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmMiniMap.resources
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\GenerateResource.read.213.tlog
+C:\Users\Harsh Mistry\Desktop\Phoenix\Phoenix\obj\x86\Debug\Phoenix.frmFinish.resources
