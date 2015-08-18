@@ -1,3 +1,4 @@
+![logo](https://github.com/hmtinc/Phoenix-Rise-of-the-Fallen/raw/master/Phoenix/Resources/Title.png)
 # Phoenix-Rise-of-the-Fallen
 A 2D RPG game designed with VB.net 
 
