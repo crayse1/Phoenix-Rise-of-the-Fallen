@@ -16,7 +16,7 @@ A 2D RPG game designed with VB.net
 
 # Setup 
 
-- The provided Repository doesn't contain the background music files due to licensing resaons. Replace TitleMusic.wav and win.wav with your own sound files or remove references to get game to compile. 
+- The provided repository doesn't contain the background music files due to licensing resaons. Replace TitleMusic.wav and win.wav with your own sound files or remove references to get game to compile. 
 
 After compiling, no additional setup is required as the game does not require the use of any additional resources. 
 
